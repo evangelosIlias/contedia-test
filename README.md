@@ -33,22 +33,16 @@ Before you begin, ensure you have the following installed:
 
 ## Screenshots
 
-Main area
 ![](images/1.png)
 
-Modal 
 ![](images/2.png)
 
-Validation
 ![](images/3.png)
 
-Inputs
 ![](images/4.png)
 
-Success message
 ![](images/5.png)
 
-Feel free to replace the image URLs (`images/1.png`, etc.) with the actual paths to your screenshots.
 
 ## Customization
 
