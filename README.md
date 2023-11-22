@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
 ## Screenshots
 
 Main area
-![Screenshot 1](images/1.png)
+![](images/1.png)
 
 Modal 
 ![Screenshot 2](images/2.png)
