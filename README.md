@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a modal popup form with content pulled via Object-Oriented PHP. The form submits data through a JavaScript/jQuery/AJAX promise to a PHP class that saves the data to a MySQL database table.
+This project demonstrates a modal popup form with content pulled via Object-Oriented PHP. The form submits data through a ```JavaScript-jQuery-AJAX promise``` to a PHP class that saves the data to a MySQL database table.
 
 ## Features
 
