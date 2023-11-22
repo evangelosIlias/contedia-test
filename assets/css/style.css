@@ -1,0 +1,48 @@
+/* Custom Button Styles */
+.custom-submit-button {
+    /* Display properties */
+    display: inline-block;
+    white-space: nowrap;
+    vertical-align: middle;
+
+    /* Typography */
+    font-weight: 400;
+    text-align: center;
+    font-size: 1rem;
+    line-height: 1.5;
+
+    /* Box model properties */
+    padding: 0.375rem 0.75rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+
+    /* Transition for smoother hover effect */
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+
+    /* Cursor style */
+    cursor: pointer;
+}
+
+/* Hover effect for the button */
+.custom-submit-button:hover {
+    background-color: #ba0d95; /* Change background color on hover */
+    color: white; /* Change text color on hover */
+}
+
+/* Message Container Styles */
+.message-content {
+    /* Positioning */
+    position: fixed;
+    top: 35%;
+    left: 50%;
+    transform: translateX(-50%);
+
+    /* Dimensions */
+    width: 300px;
+
+    /* Z-index for layering */
+    z-index: 1000;
+
+    /* Center text within container */
+    text-align: center;
+}
