@@ -46,11 +46,7 @@ Before you begin, ensure you have the following installed:
 
 ## Customization
 
-Feel free to customize the form fields, styling, and validation in the code to suit your specific requirements.
-
-## Contributing
-
-If you'd like to contribute, please fork the repository and create a pull request. We welcome any improvements or bug fixes.
+Feel free to customize this project.
 
 ## License
 
