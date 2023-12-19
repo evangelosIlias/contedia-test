@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/contedia-test.git
+    git clone https://github.com/your-username/submit-files.git
     ```
 
 2. Configure your web server to point to the project directory.
